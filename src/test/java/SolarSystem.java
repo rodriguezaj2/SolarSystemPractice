@@ -13,5 +13,9 @@ public class SolarSystem {
         Xros.temp="32423k";
         Xros.Color="Yellow";
         Xros.Radius="1000000miles";
+
+        Planet2 Dros=new Planet2();
+        Dros.color="Blue";
+        Dros.radius="132542miles";
     }
 }
